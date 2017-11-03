@@ -14,4 +14,5 @@ OpenPose的简单实现版本，简洁不简单，so easy. 就一个cpp
 [pose_iter_440000.caffemodel下载地址2-不建议，因为很费流量的，好费钱的](http://www.zifuture.com/fs/12.github/OpenPose/pose_iter_440000.caffemodel)<br/>
 
 <br/><br/>
-2.自己编译，很简单，下载[bin-release.rar](http://www.zifuture.com/fs/12.github/OpenPose/bin-release.rar)，里面包含了有dll、lib文件，直接打开工程openpose-new.sln，配好opencv就可以编译啦，只有1个cpp哦<br/>
+2.自己编译：
+下载模型pose_iter_440000.caffemodel，然后放在工程目录下，即可编译并执行。编译请选择x64，dll程序需要GPU的支持
