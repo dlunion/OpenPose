@@ -16,3 +16,7 @@ OpenPose的简单实现版本，简洁不简单，so easy. 就一个cpp
 <br/><br/>
 2.自己编译：
 下载模型pose_iter_440000.caffemodel，然后放在工程目录下，即可编译并执行。编译请选择x64，dll程序需要GPU的支持
+
+<br/><br/>
+# Linux实现
+https://github.com/dlunion/EasyOpenPose
